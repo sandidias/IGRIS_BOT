@@ -51,10 +51,20 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello {},My Name is IGRIS
-𝐈 𝐀𝐌 𝐀 𝐑𝐎𝐘𝐀𝐋 𝐊𝐍𝐈𝐆𝐇𝐓 𝐅𝐑𝐎𝐌 𝐒𝐎𝐋𝐎 𝐋𝐄𝐕𝐄𝐋𝐈𝐍𝐆.
-I will help you manage your group.
-TO KNOW MY COMMANDS CLICK /help.
+Hey there! my name is Edward
+Any questions on how to use me? use /help
+
+Join Our [Group](https://t.me/ZeroBotSupport) If You wanna Report Issue 🙂
+
+I'm here to make your group management fun and easy!
+I have lots of handy features ☺️ such as :
+
+• flood control.         • Note'S keeping system.
+• Warning System.   • Predetermined Filters.
+
+*Managed With ❤️ By :* [➳͜͡❂ঔৣ⃕͜diaz_san℻࿐](https://https://t.me/Zeref_dragnell)
+
+Wanna Add me to your Group? Just click the button below!
 """
 
 HELP_STRINGS = """
@@ -77,7 +87,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/3d6b5ac78befd0bffac47.mp4"
+SAITAMA_IMG = "https://telegra.ph/file/8a623c4b7e689bddceecb.jpg"
 
 DONATE_STRING = """donate to the original writer of the Base code, Paul
 There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
